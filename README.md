@@ -1,1 +1,3 @@
-# Computer-Vision
+# Computer-Vision Thresholding Picture Edditing
+
+Implement an image editing program that performs thresholding on an input image. Threshold is a way to create binary or binary images, ie images have in each pixel one of only two possible intensity values. Our goal is for the threshold image to correspond to the white color in the background, and the black color to correspond to the areas of interest of our image, which in our case is the text itself. The program should work whether the image given by the user is grayscale (like the example picture) or the image is in color. If the input image is in color, convert it to grayscale in your code by simply averaging the Red, Green, Blue channels.
